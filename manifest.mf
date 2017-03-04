@@ -1,8 +1,6 @@
 # Automated Sudoku Solver
 Coded in Java. Coded by Ajith Kp.
 
-
-
 ### Contact Us:
 
  * Visit for more stuffs: [TCTECH](http://www.tctech.in)
